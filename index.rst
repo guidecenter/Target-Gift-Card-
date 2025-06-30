@@ -1,4 +1,4 @@
-How to Easily Check Your Target Gift Card Balance and Use It
+How to Easily Check Your Target Gift Card Balance and Use It ?
 ============================================================
 
 .. raw:: html
@@ -26,6 +26,7 @@ Three Simple Ways to Check Your Target Gift Card Balance
 --------------------------------------------------------
 
 1. **Check Your Balance Online**  
+
    This is the quickest way, no app or phone call needed.
 
    Go to: https://www.target.com/gift-card-balance
@@ -37,6 +38,7 @@ Three Simple Ways to Check Your Target Gift Card Balance
    Click “Check Balance” and your available amount appears immediately.
 
 2. **Use the Target Mobile App**  
+
    If you shop with Target often, the app makes checking balances and using gift cards a breeze.
 
    - Download and open the Target app (iOS and Android)
@@ -50,6 +52,7 @@ Three Simple Ways to Check Your Target Gift Card Balance
    You can also scan the card barcode from the app at checkout, so no physical card is needed.
 
 3. **Call Target Customer Service**  
+
    Prefer to talk to a human or don’t have internet access?
 
    Call **1-800-544-2943** to check your balance by phone.
@@ -62,32 +65,43 @@ What If Your Balance Isn’t Showing Correctly?
 Sometimes things don’t go as planned. Here’s what to do:
 
 - Double-check you’re entering the numbers correctly. Watch out for confusing characters like “B” vs “8” or “O” vs “0.”
+
 - If you get an error saying your card isn’t valid, make sure it’s an official Target gift card, not a prepaid Visa or other store card.
+
 - If you lost your access code or the scratch-off part is damaged, contact Target Support for help.
+
 - If you suspect your card was used without your permission, call Target immediately.
 
 Tips for Using Your Target Gift Card
 ------------------------------------
 
 - Use the full balance. If you have a small leftover amount, add another payment method for the remainder.
+
 - Combine multiple cards. You can use more than one Target gift card in a single purchase.
+
 - Use online or in-store. Gift cards work in both places.
+
 - Add cards to the Target app. Keeps them all in one place and easy to access.
+
 - Register your card online. Helps recover your balance if you lose the card.
 
 FAQs
 ----
 
-**Q: Can I reload my Target gift card?**  
+**Q: Can I reload my Target gift card?** 
+
 A: Yes, reloads can be done in-store only.
 
 **Q: Can I use my gift card to buy other gift cards?**  
+
 A: No, Target blocks gift card purchases made with gift cards.
 
 **Q: What happens if I return something purchased with a gift card?**  
+
 A: The refund usually goes back onto a new Target gift card.
 
 **Q: Can I check my balance without the access code?**  
+
 A: No, the access code is required for security reasons.
 
 Conclusion
