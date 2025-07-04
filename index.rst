@@ -4,7 +4,7 @@ How to Easily Check Your Target Gift Card Balance and Use It ?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9naWZ0Y2FyZGNvcm5lci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://sites.google.com/view/targetgiftcardbalance-check/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Check Your Target Gift Card Balance Now
         </a>
     </div>
@@ -116,13 +116,13 @@ With a little care, your Target gift card can be a powerful tool for convenient,
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9naWZ0Y2FyZGNvcm5lci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://sites.google.com/view/targetgiftcardbalance-check/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Check Your Target Gift Card Balance
         </a>
-        <a href="https://fm.ci/?aHR0cHM6Ly9naWZ0Y2FyZGNvcm5lci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://sites.google.com/view/targetgiftcardbalance-check/" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Target Support Center
         </a>
-        <a href="https://fm.ci/?aHR0cHM6Ly9naWZ0Y2FyZGNvcm5lci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://sites.google.com/view/targetgiftcardbalance-check/" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Target FAQs
         </a>
     </div>
